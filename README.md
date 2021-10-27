@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Sara, welcome to my profile. 
+
 I recently completed a software development Bootcamp with the School of Code. During the bootcamp we worked on the entire development journey of digital products, from UX/UI, project management to programming. 
 
 I am motivated by creating valuable customer focused products and would like to pursue a career in Product Management. 
